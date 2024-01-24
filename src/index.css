@@ -1,0 +1,80 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.pokemonInputDesaparece {
+  display: none;
+}
+
+.pokemonInput {
+  border-radius: 12px;
+  border: 1px solid #D5D5D5;
+  background-color: transparent;
+  padding: 5px 5px 5px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 290px;
+  height: 33px;
+  margin-bottom: 10px;
+}
+
+.pokemonTitulo {
+  font-size: 22px;
+  color: #808080;
+  margin-top: 15px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pokemonImg {
+  border: 1px solid #D5D5D5;
+  width: 232px;
+  height: 228px;
+  border-radius: 13px;
+  display: flex;
+  justify-content: center;
+}
+
+.newBody {
+  margin-top: 18%;
+  background-color: #00C2FF;
+  padding: 30px;
+}
+
+.newFundo {
+  background-color: white;
+  border-radius: 33px;
+  padding: 25px;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+
+.left, .right{
+  display: grid;
+  justify-content: center;
+}
+.inputSearch{
+  border-radius: 13px;
+  width: 297px;
+  height: 52px;
+  padding-left: 30px;
+}
+.lupaIcon{
+  position: relative;
+  top: 20px;
+  left: 25px;
+  color: #00C2FF;
+}
+.newContent{
+  width: 745px;
+  height: 460;
+}
