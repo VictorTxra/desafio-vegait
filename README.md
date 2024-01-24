@@ -12,3 +12,10 @@ Usei o Fontawesome para gerar o icone de lupa
 
 Para utilizar o APP, basta digitar o nome do Pokémon no campo especificado e apertar ENTER, então é só aguardar o resuiltado na tela.
 
+Sugestão de melhorias para o app:
+
+- Listagem de todos os pokémons procurados
+- Retorno sobre o número de evoluções
+- Relaçao dos tipos (ganha e perde de quem?)
+- Pokémons lendários
+- Qual liga é pokemon
